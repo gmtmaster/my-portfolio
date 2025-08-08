@@ -97,13 +97,13 @@ function Hero() {
 
         <section>
         <div>
-            <h1 className="hero-text uppercase text-[20vh]">
+            <h1 className="hero-text uppercase text-[20vh] flex justify-center items-center">
                 Hi,
                 I'm Adam
             </h1>
         </div>
         </section>
-            <div className="video absolute inset-0 ">
+            <div className="video inset-0 w-full h-full">
                 <video  ref={videoRef}
                         src="/videos/output.mp4"
                         muted
