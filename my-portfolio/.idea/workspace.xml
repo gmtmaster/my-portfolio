@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bec71c4-6f79-448c-b307-6639e0dfb9c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../gsap_landing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/fonts/Modern Negra Demo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/abt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/abt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/abt3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/abt4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/abt5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/cocktail-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/cocktail-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/cup-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/drink1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/drink2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/drink3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/drink4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/footer-drinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/footer-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/footer-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/hero-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/hero-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/insta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/mask-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/profile1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/profile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/profile3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/profile4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/slider-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/slider-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/under-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/images/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/readme/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/readme/jsmpro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/readme/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/readme/videokit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/videos/input.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/videos/output.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/src/components/Drinks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gsap_testing/src/components/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-gsap/src/components/CustomCursor.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-gsap/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-gsap/src/components/HeroSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/CSS3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/HTML5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/gsap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/javaScript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/mysql.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/nodejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/stripe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/supabase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/tailwindcss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/typeScript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/public/svg/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/Components/Contact.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/Components/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/Components/Info.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/Components/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/Components/logoWall.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/React/DarkVeil.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/React/LetterGlitch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/React/MagicBento.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/React/SkillsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio-tsx/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/actions/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/(protected)/billing/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/(protected)/dashboard/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/(protected)/settings/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/auth/AuthProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/auth/SupabaseListener.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/auth/client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/auth/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/auth/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supabase-auth/src/app/register/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31q51zZxFwJD8oEHurdbR70Quaw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/gmtmaster/WebstormProjects/my-portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/gmtmaster/WebstormProjects/portfolio-tsx/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/svg" />
+      <recent name="$PROJECT_DIR$/src/React" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bec71c4-6f79-448c-b307-6639e0dfb9c7" name="Changes" comment="" />
+      <created>1756238552160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756238552160</updated>
+      <workItem from="1756238554269" duration="1271000" />
+      <workItem from="1756239985208" duration="2635000" />
+      <workItem from="1756242994483" duration="2218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
